@@ -81,7 +81,7 @@ def station_stats(df):
 
     print("\nThis took us about %s seconds." % (time.time() - start_time))
     print('-'*40)
-
+    print('\nEnd of Calculating The Most Popular Stations and Trip...\n')
 
 def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
