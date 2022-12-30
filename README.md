@@ -7,7 +7,7 @@
 AnhVV11's project for Udacity
 
 ### Description
-Describe what your project is about and what it does
+Assignment for Udacity Git course
 
 ### Files used
 Include the files used
