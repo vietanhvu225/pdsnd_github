@@ -15,3 +15,5 @@ bikeshare.py
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+### Note
+This project be used for learning only. Do not use it  for development or production purposes.
